@@ -12,7 +12,7 @@
 namespace offsets
 {
 
-constexpr uintptr_t entity_list  = 0x20d25c0;
+constexpr uintptr_t entity_list  = 0x20d25a0;
 constexpr uintptr_t client_state = 0x9459a0;
 constexpr uintptr_t local_player = 0x1A8;
 }

@@ -102,5 +102,23 @@
             "killstreak idleeffect": "Hot Rod",
             "set_item_texture_wear": 0.0
         }
+    },
+    "The Blutsauger": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod"
+        }
+    },
+    "The Quick-Fix": {
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "is_festivized": 1
+        }
+    },
+    "The Kritzkrieg": {
+        "attributes": {
+            "killstreak idleeffect": "Manndarin",
+            "is_festivized": 1
+        }
     }
 }
