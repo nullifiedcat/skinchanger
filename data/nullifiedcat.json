@@ -120,5 +120,23 @@
             "killstreak idleeffect": "Manndarin",
             "is_festivized": 1
         }
+    },
+    "The Phlogistinator": {
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod"
+        }
+    },
+    "The Black Box": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "is_festivized": 1
+        }
+    },
+    "The Beggar's Bazooka": {
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "is_festivized": 1
+        }
     }
 }
